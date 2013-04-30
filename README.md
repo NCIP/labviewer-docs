@@ -1,5 +1,5 @@
-labviewer-docs
-==============
+Welcome to the LabViewer Documentation Project!
+==============================================
 
 This repository holds the documentation for the LabViewer project.
 
